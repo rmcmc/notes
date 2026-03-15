@@ -1,0 +1,14 @@
+# CPD Table
+
+The following tables are used to track CPD fpor easier submission at year end
+
+## 2026
+
+The following section details my CPD over 2026
+
+| Category  |  Description of Activity |  Start | End  | Learning Hours  | Benefit |
+|---|---|---|---|---|---|
+| Self-directed
+learning  | Setting up this document in github  | 15/03/2026  |  15/03/2026  |  1 | Given me an appreciation of quarto setup in Github which I am not very familiar. Quarto is becoming a popular reporting method in industry and I was keen to maintain records here to develop quorto and github knowledge independently  |
+
+

@@ -12,5 +12,12 @@
     "title": "1  Copulas",
     "section": "",
     "text": "Copulas."
+  },
+  {
+    "objectID": "cpd_table.html#section",
+    "href": "cpd_table.html#section",
+    "title": "2  CPD Table",
+    "section": "2.1 2026",
+    "text": "2.1 2026\nThe following section details my CPD over 2026\n\n\n\n\n\n\n\n\n\n\n\nCategory\nDescription of Activity\nStart\nEnd\nLearning Hours\nBenefit\n\n\n\n\nSelf-directed\n\n\n\n\n\n\n\nlearning\nSetting up this document in github\n15/03/2026\n15/03/2026\n1\nGiven me an appreciation of quarto setup in Github which I am not very familiar. Quarto is becoming a popular reporting method in industry and I was keen to maintain records here to develop quorto and github knowledge independently"
   }
 ]
