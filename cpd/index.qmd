@@ -1,5 +1,8 @@
 # Preface {.unnumbered}
 
-This is a Quarto book.
+This book is used to track my Continual Professional Development (CPD) as part of the Royal Statistics Society requirement for members seeking chartership or other qualifications.
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+It is also a cookbook for techniques.
+
+These notes are purely my own, are unlikley to be verified and could contain errors.
+
