@@ -1,0 +1,22 @@
+project:
+  type: book
+
+book:
+  title: "Continuing Professional Development"
+  author: "rmcmc"
+  date: "3/15/2026"
+  chapters:
+    - index.qmd
+    - copulas.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+
+

@@ -1,0 +1,8 @@
+# Preface {.unnumbered}
+
+This book is used to track my Continuing Professional Development (CPD) as part of the Royal Statistics Society requirement for members seeking chartership or other qualifications.
+
+It is also a cookbook for techniques.
+
+These notes are purely my own, are unlikely to be verified and could contain errors.
+
