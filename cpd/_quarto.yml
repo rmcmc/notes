@@ -2,13 +2,12 @@ project:
   type: book
 
 book:
-  title: "Cpd"
-  author: "Jane Doe"
+  title: "Continuing Professional Development"
+  author: "rmcmc"
   date: "3/15/2026"
   chapters:
     - index.qmd
-    - intro.qmd
-    - summary.qmd
+    - copulas.qmd
     - references.qmd
 
 bibliography: references.bib

@@ -2,29 +2,15 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Cpd",
+    "title": "Continuing Professional Development",
     "section": "",
-    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books."
+    "text": "Preface\nThis book is used to track my Continuing Professional Development (CPD) as part of the Royal Statistics Society requirement for members seeking chartership or other qualifications.\nIt is also a cookbook for techniques.\nThese notes are purely my own, are unlikely to be verified and could contain errors."
   },
   {
-    "objectID": "intro.html",
-    "href": "intro.html",
-    "title": "1  Introduction",
+    "objectID": "copulas.html",
+    "href": "copulas.html",
+    "title": "1  Copulas",
     "section": "",
-    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
-  },
-  {
-    "objectID": "summary.html",
-    "href": "summary.html",
-    "title": "2  Summary",
-    "section": "",
-    "text": "In summary, this book has no content whatsoever."
-  },
-  {
-    "objectID": "references.html",
-    "href": "references.html",
-    "title": "References",
-    "section": "",
-    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+    "text": "Copulas."
   }
 ]
