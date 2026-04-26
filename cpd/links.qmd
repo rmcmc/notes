@@ -1,0 +1,38 @@
+# Links
+
+Quick to access blogs, papers, articles, etc. Each with a description for searching
+
+## Blogs
+
+### General 
+
+[Andrew Heiss](https://www.andrewheiss.com/blog/)
+
+[Frank Harrell](https://www.fharrell.com)
+
+[Aki Vehtari](https://users.aalto.fi/~ave/)
+
+[Andrew Gelman](https://statmodeling.stat.columbia.edu)
+
+[Michael Betancourt](https://betanalpha.github.io/writing/)
+
+### Specific
+
+[Simulate vs Predict in lme4](https://tmalsburg.github.io/predict-vs-simulate.html)
+
+## Papers
+
+### Copulas
+
+[Everything You Always Wanted to Know about Copula
+Modeling but Were Afraid to Ask](https://www.uni-muenster.de/Physik.TP/~lemm/seminarSS08/JHE-2007.pdf)
+
+### Bayesian
+
+#### Workflow
+
+[Bayesian Workflow](https://arxiv.org/pdf/2011.01808)
+
+## Articles
+
+[The unreasonable effectiveness of just showing up everyday](https://news.ycombinator.com/item?id=27833064) 

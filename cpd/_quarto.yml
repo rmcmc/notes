@@ -9,6 +9,7 @@ book:
   chapters:
     - index.qmd
     - copulas.qmd
+    - links.qmd
     - cpd_table.qmd
     - references.qmd
 
