@@ -16,8 +16,57 @@
   {
     "objectID": "cpd_table.html#section",
     "href": "cpd_table.html#section",
-    "title": "2  CPD Table",
-    "section": "2.1 2026",
-    "text": "2.1 2026\nThe following section details my CPD over 2026\n\n\n\n\n\n\n\n\n\n\n\nCategory\nDescription of Activity\nStart\nEnd\nLearning Hours\nBenefit\n\n\n\n\nSelf-directed\n\n\n\n\n\n\n\nlearning\nSetting up this document in github\n15/03/2026\n15/03/2026\n1\nGiven me an appreciation of quarto setup in Github which I am not very familiar. Quarto is becoming a popular reporting method in industry and I was keen to maintain records here to develop quorto and github knowledge independently"
+    "title": "3  CPD Table",
+    "section": "3.1 2026",
+    "text": "3.1 2026\nThe following section details my CPD over 2026\n\n\n\n\n\n\n\n\n\n\n\nCategory\nDescription of Activity\nStart\nEnd\nLearning Hours\nBenefit\n\n\n\n\nSelf-directed\n\n\n\n\n\n\n\nlearning\nSetting up this document in github\n15/03/2026\n15/03/2026\n1\nGiven me an appreciation of quarto setup in Github which I am not very familiar. Quarto is becoming a popular reporting method in industry and I was keen to maintain records here to develop quorto and github knowledge independently"
+  },
+  {
+    "objectID": "copulas.html#blogs",
+    "href": "copulas.html#blogs",
+    "title": "1  Links",
+    "section": "1.1 Blogs",
+    "text": "1.1 Blogs\nAndrew Heiss"
+  },
+  {
+    "objectID": "copulas.html#papers",
+    "href": "copulas.html#papers",
+    "title": "1  Links",
+    "section": "1.2 Papers",
+    "text": "1.2 Papers"
+  },
+  {
+    "objectID": "copulas.html#articles",
+    "href": "copulas.html#articles",
+    "title": "1  Links",
+    "section": "1.3 Articles",
+    "text": "1.3 Articles"
+  },
+  {
+    "objectID": "links.html",
+    "href": "links.html",
+    "title": "2  Copulas",
+    "section": "",
+    "text": "Copulas."
+  },
+  {
+    "objectID": "links.html#blogs",
+    "href": "links.html#blogs",
+    "title": "2  Links",
+    "section": "2.1 Blogs",
+    "text": "2.1 Blogs\n\n2.1.1 General\nAndrew Heiss\nFrank Harrell\nAki Vehtari\nAndrew Gelman\nMichael Betancourt\n\n\n2.1.2 Specific\nSimulate vs Predict in lme4"
+  },
+  {
+    "objectID": "links.html#papers",
+    "href": "links.html#papers",
+    "title": "2  Links",
+    "section": "2.2 Papers",
+    "text": "2.2 Papers\n\n2.2.1 Copulas\nEverything You Always Wanted to Know about Copula Modeling but Were Afraid to Ask\n\n\n2.2.2 Bayesian\n\n2.2.2.1 Workflow\nBayesian Workflow"
+  },
+  {
+    "objectID": "links.html#articles",
+    "href": "links.html#articles",
+    "title": "2  Links",
+    "section": "2.3 Articles",
+    "text": "2.3 Articles\nThe unreasonable effectiveness of just showing up everyday"
   }
 ]
