@@ -51,22 +51,29 @@
   {
     "objectID": "links.html#blogs",
     "href": "links.html#blogs",
-    "title": "2  Links",
-    "section": "2.1 Blogs",
-    "text": "2.1 Blogs\n\n2.1.1 General\nAndrew Heiss\nFrank Harrell\nAki Vehtari\nAndrew Gelman\nMichael Betancourt\n\n\n2.1.2 Specific\nSimulate vs Predict in lme4"
+    "title": "3  Links",
+    "section": "3.1 Blogs",
+    "text": "3.1 Blogs\n\n3.1.1 General\nAndrew Heiss\nFrank Harrell\nAki Vehtari\nAndrew Gelman\nMichael Betancourt\n\n\n3.1.2 Specific\nSimulate vs Predict in lme4"
   },
   {
     "objectID": "links.html#papers",
     "href": "links.html#papers",
-    "title": "2  Links",
-    "section": "2.2 Papers",
-    "text": "2.2 Papers\n\n2.2.1 Copulas\nEverything You Always Wanted to Know about Copula Modeling but Were Afraid to Ask\n\n\n2.2.2 Bayesian\n\n2.2.2.1 Workflow\nBayesian Workflow"
+    "title": "3  Links",
+    "section": "3.2 Papers",
+    "text": "3.2 Papers\n\n3.2.1 Copulas\nEverything You Always Wanted to Know about Copula Modeling but Were Afraid to Ask\n\n\n3.2.2 Bayesian\n\n3.2.2.1 Workflow\nBayesian Workflow"
   },
   {
     "objectID": "links.html#articles",
     "href": "links.html#articles",
-    "title": "2  Links",
-    "section": "2.3 Articles",
-    "text": "2.3 Articles\nThe unreasonable effectiveness of just showing up everyday"
+    "title": "3  Links",
+    "section": "3.3 Articles",
+    "text": "3.3 Articles\nThe unreasonable effectiveness of just showing up everyday"
+  },
+  {
+    "objectID": "bayesian_workflow/chapter1.html",
+    "href": "bayesian_workflow/chapter1.html",
+    "title": "2  Bayesian Workflow - Chapter 1",
+    "section": "",
+    "text": "1+1\n\n[1] 2"
   }
 ]

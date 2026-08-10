@@ -9,6 +9,9 @@ book:
   chapters:
     - index.qmd
     - copulas.qmd
+    - part: "Bayesian Workflow"
+      contents:
+        - bayesian_workflow/chapter1.qmd
     - links.qmd
     - cpd_table.qmd
     - references.qmd

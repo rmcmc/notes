@@ -1,0 +1,11 @@
+---
+title: "Bayesian Workflow - Chapter 1"
+format:
+  html:
+    theme: default
+---
+
+```{r}
+1+1
+```
+
